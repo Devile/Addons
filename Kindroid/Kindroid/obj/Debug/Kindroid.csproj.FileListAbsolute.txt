@@ -1,0 +1,13 @@
+c:\users\sahin\documents\visual studio 2013\Projects\Kindroid\Kindroid\bin\Debug\Kindroid.exe.config
+c:\users\sahin\documents\visual studio 2013\Projects\Kindroid\Kindroid\bin\Debug\Kindroid.exe
+c:\users\sahin\documents\visual studio 2013\Projects\Kindroid\Kindroid\bin\Debug\Kindroid.pdb
+c:\users\sahin\documents\visual studio 2013\Projects\Kindroid\Kindroid\bin\Debug\EloBuddy.dll
+c:\users\sahin\documents\visual studio 2013\Projects\Kindroid\Kindroid\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\sahin\documents\visual studio 2013\Projects\Kindroid\Kindroid\bin\Debug\SharpDX.dll
+c:\users\sahin\documents\visual studio 2013\Projects\Kindroid\Kindroid\obj\Debug\Kindroid.exe
+c:\users\sahin\documents\visual studio 2013\Projects\Kindroid\Kindroid\obj\Debug\Kindroid.pdb
+c:\users\sahin\documents\visual studio 2013\Projects\Kindroid\Kindroid\bin\Debug\EloBuddy.SDK.dll
+c:\users\sahin\documents\visual studio 2013\Projects\Kindroid\Kindroid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sahin\Documents\Visual Studio 2013\Projects\Kindroid\Kindroid\obj\Debug\Kindroid.Properties.Resources.resources
+C:\Users\Sahin\Documents\Visual Studio 2013\Projects\Kindroid\Kindroid\obj\Debug\Kindroid.csproj.GenerateResource.Cache
+C:\Users\Sahin\Documents\Visual Studio 2013\Projects\Kindroid\Kindroid\obj\Debug\Kindroid.csprojResolveAssemblyReference.cache
